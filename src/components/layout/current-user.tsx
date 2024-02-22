@@ -6,7 +6,6 @@ import { Text } from "../text"
 import { SettingOutlined } from "@ant-design/icons"
 import { useState } from "react"
 import { AccountSettings } from "./account-settings"
-import { isObject } from "util"
 const CurrentUser = () => {
   const [IsOpen,setIsOpen] = useState(false)
   const {data: user} = useGetIdentity<User>()
