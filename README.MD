@@ -7,7 +7,7 @@
 </div>
 <br/>
 
-This [Refine](https://github.com/refinedev/refine) project was generated with [create refine-app](https://github.com/refinedev/refine/tree/master/packages/create-refine-app). Check the [Live](https://refine-crm-dashboard-ten.vercel.app/login) project here!.
+This [Refine](https://github.com/refinedev/refine) project was generated with [create refine-app](https://github.com/refinedev/refine/tree/master/packages/create-refine-app). Check the [Live](https://refine-crm-dashboard-ten.vercel.app/) project here!.
 
 ## Getting Started
 
